@@ -64,5 +64,5 @@ Since the early days of the web, there have been many versions of HTML
 - [Semantic HTML](https://guide.freecodecamp.org/html/html5-semantic-elements)
 - [HTML Attributes](https://guide.freecodecamp.org/html/attributes)
 
-
-HTML are used only for creating webpages. 
+### Uses of HTML
+HTML are used only for creating webpages and website
