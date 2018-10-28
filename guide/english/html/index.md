@@ -65,4 +65,4 @@ Since the early days of the web, there have been many versions of HTML
 - [HTML Attributes](https://guide.freecodecamp.org/html/attributes)
 
 
-HTML are used only for creating webpages.
+HTML are used only for creating webpages. 
