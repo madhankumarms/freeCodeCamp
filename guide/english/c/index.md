@@ -125,5 +125,8 @@ Make a new program with `file` -> `new` -> `Source File`, then copy over the hel
 
 * [C Programming Tutorials.](https://www.tutorialspoint.com/cprogramming/)
 
+### Uses of C Programming Language
+Even Microsoft Windows is created with help of C Language.
+
 
 
